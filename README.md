@@ -1,0 +1,1 @@
+This is an auto-scaffolded 21st.dev portfolio. Replace 21st imports with the real package or use 21st MCP to fetch components.
